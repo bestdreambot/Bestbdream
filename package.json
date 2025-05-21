@@ -1,0 +1,9 @@
+{
+  "name": "vercelbot",
+  "version": "1.0.0",
+  "main": "api/bot.js",
+  "scripts": {},
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
